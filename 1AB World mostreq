@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>S1AB</title>
+  <LINK href="styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>Task 1: World Most-Requested A Text Sidebar vs B Control</h1>
+<h2> 1. Find out how to get your marriage certificate authenticated before your upcoming move to France</h2>
+<p> Control - B - 7 images</p>
+<img src="1B_world_mostreq_control.jpg" id="1B" alt="" />
+<p> New - B - Text only - Priorities Sidebar</p>
+<img src="1A_world_mostreq_text-side.jpg" id="1A" alt="" />
+<!-- Feel free to change this text here -->
+</body>
+</html>
